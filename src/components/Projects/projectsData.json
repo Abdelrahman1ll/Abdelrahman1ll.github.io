@@ -84,5 +84,14 @@
     "description": "A dynamic sports apparel Shopify store specializing in football jerseys, built with custom collections navigation and high-performance product filtering.",
     "tags": ["Shopify", "Apparel Store", "Liquid", "Product Filtering"],
     "demoUrl": "https://footballkits.com.co"
+  },
+  {
+    "id": 11,
+    "title": "Kahrata - Smart Mobility",
+    "category": "Mobile",
+    "description": "An innovative smart passenger transport application designed to revolutionize transit in regional and newly established governorates. The platform features dynamic route planning, fleet tracking, an adaptive pricing model for daily and monthly subscriptions, and a streamlined mobile interface for regional commutes.",
+    "tags": ["Flutter", "NestJS", "Mobile App"],
+    "demoUrl": "https://abdelrahman1ll.github.io/scene_kahrata/",
+    "githubUrl": "https://github.com/Abdelrahman1ll/scene_kahrata"
   }
 ]

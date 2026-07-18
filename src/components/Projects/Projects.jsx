@@ -6,6 +6,7 @@ const categories = [
   { id: "Full Stack", name: "Full Stack" },
   { id: "Front End", name: "Front End" },
   { id: "Back End", name: "Back End" },
+  { id: "Mobile", name: "Mobile" },
   { id: "Shopify", name: "Shopify" }
 ];
 
