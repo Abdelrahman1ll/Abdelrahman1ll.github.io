@@ -1,0 +1,20 @@
+{
+  "heading": "Let's Connect",
+  "subheading": "Have a project idea, job opportunity, or just want to chat? Fill out the form and I'll get back to you shortly.",
+  "info": {
+    "email": "abdelrahman.a.job.1@gmail.com",
+    "phone": "+20 106 521 7980",
+    "location": "Fayoum, Egypt",
+    "github": "https://github.com/Abdelrahman1ll",
+    "linkedin": "https://www.linkedin.com/in/abdelrahman-mohamed-92958033b/",
+    "availability": "Available for full-time roles & freelance contracts"
+  },
+  "form": {
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "subjectPlaceholder": "Subject",
+    "messagePlaceholder": "How can I help you?",
+    "buttonText": "Send Message",
+    "buttonSendingText": "Sending..."
+  }
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Modaza - E-Commerce Store",
+    "category": "Full Stack",
+    "description": "A comprehensive full-stack fashion e-commerce platform featuring a robust administrative dashboard and seamless integration with the Paymob payment gateway and shipping providers. The system delivers a modern, high-performance shopping experience equipped with advanced e-commerce functionalities and a premium, professionally crafted UI/UX.",
+    "tags": ["React", "Tailwind CSS", "Vite", "NestJS"],
+    "demoUrl": "https://abdelrahman1ll.github.io/modaza-frontend/",
+    "githubUrl": "https://github.com/Abdelrahman1ll/modaza-frontend"
+  },
+  {
+    "id": 2,
+    "title": "English Master",
+    "category": "Front End",
+    "description": "An integrated English learning platform covering all proficiency levels from beginner to advanced. It features a rigorous assessment system including comprehensive level-final exams and intensive periodic tests, supported by an extensive database of interactive educational content designed to streamline the learning process.",
+    "tags": ["React", "Tailwind CSS"],
+    "demoUrl": "https://abdelrahman1ll.github.io/english/",
+    "githubUrl": "https://github.com/Abdelrahman1ll/english"
+  },
+  {
+    "id": 3,
+    "title": "CV Studio",
+    "category": "Front End",
+    "description": "A professional CV builder that balances aesthetics with functionality, offering two distinct modes: a modern design-focused template and a text-based ATS-optimized version for seamless corporate recruitment. The platform provides users with comprehensive control, speed, and ease of use in crafting high-quality resumes.",
+    "tags": ["React", "Tailwind CSS"],
+    "demoUrl": "https://abdelrahman1ll.github.io/CV-STUDIO/",
+    "githubUrl": "https://github.com/Abdelrahman1ll/CV-STUDIO"
+  },
+  {
+    "id": 4,
+    "title": "Roots - E-Commerce Store",
+    "category": "Full Stack",
+    "description": "A sophisticated full-stack e-commerce platform built with React 19 and TypeScript, delivering an immersive user experience through 3D product visualizations and fluid animations. The project features a comprehensive administrative dashboard with advanced RBAC security, scalable state management using Redux Toolkit, and rigorous end-to-end testing with Playwright. The entire infrastructure is containerized with Docker, ensuring high performance, stability, and seamless deployment across environments.",
+    "tags": ["React 19", "Tailwind CSS", "NestJS"],
+    "demoUrl": "https://abdelrahman1ll.github.io/roots-frontend/",
+    "githubUrl": "https://github.com/Abdelrahman1ll/roots-frontend"
+  },
+  {
+    "id": 5,
+    "title": "Cocobar",
+    "category": "Full Stack",
+    "description": "A specialized e-commerce platform for a waffle and confectionery shop, featuring a sophisticated ordering system that allows for precise customization (1, 2, or 4 flavors). The system implements intelligent conditional logic to guide users through selecting specific toppings and chocolates based on their initial choices, all within a visually delectable and highly responsive interface.",
+    "tags": ["Angular", "Node.js"],
+    "demoUrl": "https://abdelrahman1ll.github.io/chocobar-angular/",
+    "githubUrl": "https://github.com/Abdelrahman1ll/chocobar-angular"
+  },
+  {
+    "id": 6,
+    "title": "E-Commerce",
+    "category": "Full Stack",
+    "description": "A comprehensive e-commerce and service platform specializing in the sale and maintenance of water heaters. It features a unique diagnostic tool that assists users in identifying faulty components and provides instant pricing for parts and repairs. The platform offers both new product sales and professional maintenance services, emphasizing transparency and detailed information for a superior customer experience.",
+    "tags": ["Next.js", "Tailwind CSS", "Node.js"],
+    "demoUrl": "https://abdelrahman1ll.github.io/e-commerce-next-ts/",
+    "githubUrl": "https://github.com/Abdelrahman1ll/e-commerce-next-ts"
+  },
+  {
+    "id": 7,
+    "title": "BYOU Store",
+    "category": "Shopify",
+    "description": "A custom-designed Shopify fashion and lifestyle e-commerce store with optimized checkout flow and a tailored premium user experience.",
+    "tags": ["Shopify", "E-Commerce", "Liquid", "Theme Development"],
+    "demoUrl": "https://byoustore.com"
+  },
+  {
+    "id": 8,
+    "title": "Kochelya",
+    "category": "Shopify",
+    "description": "An elegant, responsive Shopify store designed and developed with customized sections, Liquid layout optimizations, and a conversion-focused flow.",
+    "tags": ["Shopify", "Theme Customization", "Liquid", "UI/UX"],
+    "demoUrl": "https://kochelya.com"
+  },
+  {
+    "id": 9,
+    "title": "Beytla",
+    "category": "Shopify",
+    "description": "A sleek home decor and furniture Shopify e-commerce platform featuring custom theme components and optimized page speed performance.",
+    "tags": ["Shopify", "E-Commerce", "Liquid", "Frontend Design"],
+    "demoUrl": "https://www.beytla.com"
+  },
+  {
+    "id": 10,
+    "title": "Football Kits",
+    "category": "Shopify",
+    "description": "A dynamic sports apparel Shopify store specializing in football jerseys, built with custom collections navigation and high-performance product filtering.",
+    "tags": ["Shopify", "Apparel Store", "Liquid", "Product Filtering"],
+    "demoUrl": "https://footballkits.com.co"
+  }
+]

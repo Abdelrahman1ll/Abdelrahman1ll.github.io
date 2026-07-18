@@ -1,0 +1,30 @@
+{
+  "heading": "Recognitions & Milestones",
+  "subheading": "Professional milestones, certifications, and awards received over my engineering journey.",
+  "items": [
+    {
+      "year": "2025",
+      "title": "Senior Engineer of the Year",
+      "issuer": "Global Tech Awards",
+      "description": "Awarded for exceptional design leadership, performance optimization on core SaaS platforms, and mentoring junior engineers."
+    },
+    {
+      "year": "2024",
+      "title": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "description": "Validated expertise in designing distributed systems on AWS, cost optimization, disaster recovery pipelines, and microservice infrastructure."
+    },
+    {
+      "year": "2023",
+      "title": "Outstanding Contributor Award",
+      "issuer": "Digital Products Org",
+      "description": "Recognized for delivering a critical cross-platform React Native app ahead of schedule with 99.9% crash-free sessions."
+    },
+    {
+      "year": "2022",
+      "title": "Full-Stack Development Specialist",
+      "issuer": "Tech Institute",
+      "description": "Completed extensive certification covering advanced node modules, PostgreSQL optimization, reactive state management, and containerization."
+    }
+  ]
+}

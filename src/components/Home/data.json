@@ -1,0 +1,65 @@
+{
+    "aboutMe": {
+      "name": "Abdelrahman Mohamed",
+      "title": "Full-Stack Developer",
+      "bio": "I build modern, fast and beautiful digital products for Web, Mobile & Desktop.",
+      "avatar": "/favicon.png",
+      "signature": "Abdelrahman",
+      "tags": [
+        { "name": "Web", "icon": "globe", "colorClass": "bg-[#EFF6FF] dark:bg-blue-950/30 text-blue-600 dark:text-blue-400" },
+        { "name": "Mobile", "icon": "phone", "colorClass": "bg-[#ECFDF5] dark:bg-emerald-950/30 text-emerald-600 dark:text-emerald-400" },
+        { "name": "Desktop", "icon": "desktop", "colorClass": "bg-[#F5F3FF] dark:bg-indigo-950/30 text-indigo-600 dark:text-indigo-400" },
+        { "name": "API", "icon": "api", "colorClass": "bg-[#FFF7ED] dark:bg-orange-950/30 text-orange-600 dark:text-orange-400" }
+      ]
+    },
+    "featuredWork": {
+      "title": "Portfolio",
+      "subtitle": "Featured Work",
+      "actionText": "View Case Study",
+      "videoUrl": "/SaaS_product_showcase_laptop_mon…_202607170224.mp4"
+    },
+    "stats": {
+      "projects": {
+        "count": "68+",
+        "label": "Projects Completed"
+      },
+      "awards": {
+        "count": "24",
+        "label": "Awards Received"
+      }
+    },
+    "services": [
+      {
+        "title": "Web Development",
+        "description": "Modern, responsive and SEO-friendly websites.",
+        "icon": "globe",
+        "slug": "web",
+        "bg": "bg-[#EFF6FF] dark:bg-blue-950/20",
+        "text": "text-blue-600 dark:text-blue-400"
+      },
+      {
+        "title": "Mobile Apps",
+        "description": "Cross-platform apps for iOS & Android.",
+        "icon": "phone",
+        "slug": "mobile",
+        "bg": "bg-[#ECFDF5] dark:bg-emerald-950/20",
+        "text": "text-emerald-600 dark:text-emerald-400"
+      },
+      {
+        "title": "Desktop Apps",
+        "description": "High-performance apps for Windows & macOS.",
+        "icon": "desktop",
+        "slug": "desktop",
+        "bg": "bg-[#F5F3FF] dark:bg-indigo-950/20",
+        "text": "text-indigo-600 dark:text-indigo-400"
+      },
+      {
+        "title": "Backend & API",
+        "description": "Scalable, secure and well-structured APIs.",
+        "icon": "rocket",
+        "slug": "backend",
+        "bg": "bg-[#FFF7ED] dark:bg-orange-950/20",
+        "text": "text-orange-600 dark:text-orange-400"
+      }
+    ]
+  }

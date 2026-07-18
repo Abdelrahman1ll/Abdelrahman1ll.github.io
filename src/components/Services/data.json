@@ -1,0 +1,33 @@
+{
+  "heading": "Technical Capabilities",
+  "subheading": "Detailed breakdown of engineering skills, custom solutions, and implementation methods I specialize in.",
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "Building modern React websites with custom design systems, CSS/Tailwind layouts, state management, and optimized SEO performance.",
+      "techs": ["React.js", "Next.js", "Vite", "Tailwind CSS", "Redux", "Zustand"]
+    },
+    {
+      "title": "Mobile Applications",
+      "description": "Cross-platform mobile client development for Android and iOS using React Native or Flutter. Integrated native device modules.",
+      "techs": ["React Native", "Flutter", "Dart", "Swift", "Kotlin", "Expo"]
+    },
+    {
+      "title": "Desktop Applications",
+      "description": "Custom desktop client tools utilizing Electron.js, integrated with backend servers for system management (e.g. enterprise cashier and POS software), securing local databases.",
+      "techs": ["Electron.js", "React", "Node.js", "SQLite"]
+    },
+    {
+      "title": "APIs & Core Backend",
+      "description": "Designing secure, modular microservice APIs using Express, GraphQL, and database systems with integrated memory caching.",
+      "techs": ["Node.js", "Express", "GraphQL", "MongoDB", "PostgreSQL", "Redis", "Docker"]
+    }
+  ],
+  "skills": {
+    "Programming Languages": ["JavaScript", "TypeScript", "Python", "PHP", "Dart", "C"],
+    "Backend Frameworks & Databases": ["Node.js", "Express.js", "NestJS", "MongoDB", "PostgreSQL", "MySQL", "Redis", "Google BigQuery"],
+    "Frontend Frameworks & Styling": ["React.js", "Next.js", "Angular", "HTML", "CSS", "TailwindCSS"],
+    "DevOps & Infrastructure": ["Docker", "AWS", "DigitalOcean", "CI/CD (Jenkins)", "Nginx", "Linux CLI"],
+    "Technical Skills & Tools": ["Data Structures", "Algorithms", "OOP", "Debugging", "Jest", "Git/GitHub", "Agile/Scrum", "Postman", "Swagger/OpenAPI", "Shopify"]
+  }
+}
