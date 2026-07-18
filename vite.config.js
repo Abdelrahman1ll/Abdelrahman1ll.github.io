@@ -4,14 +4,10 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/",
   plugins: [
     react(),
     tailwindcss(),
   ],
-  server: {
-    
-    watch: {
-      ignored: ['**/*.mp4', '**/public/**'],
-    },
-  },
+
 })
